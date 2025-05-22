@@ -25,9 +25,6 @@ This repository contains Java assignments completed during my CSE 110 course. Ea
 - **Assignment 7**: Theater Ticketing System  
   Console-based interface for purchasing and viewing seats in a 15×10 theater layout. Includes dynamic seat availability and sales reporting. *(Depends on `TicketManager.java`.)*
 
-- **Assignment 8**: Bank Monthly Summary  
-  Reads a bank record file and calculates monthly balances and interest. Demonstrates file I/O, formatted output, and balance tracking. *(Requires `bankRecord1.txt` input file.)*
-
 ---
 
 Each assignment is contained in its own folder with source code and a short description.
