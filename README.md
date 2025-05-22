@@ -1,30 +1,39 @@
-# College Java Assignments
+# 1st Year College Java Assignments & Labs
 
-This repository contains Java assignments completed during my CSE 110 course. Each project demonstrates core programming concepts such as user input, control structures, object-oriented programming (OOP), arrays, and file handling.
-
-## Projects
-
-- **Assignment 1**: Property Tax Calculator  
-  Basic arithmetic and user input for calculating assessed property values and taxes.
-
-- **Assignment 2**: Fitness Center Invoice System  
-  Takes user input and applies conditional logic to calculate membership discounts.
-
-- **Assignment 3**: Menu App with Conversion & Growth Models  
-  Menu-driven application using loops and switch statements to perform unit conversions, triangle area calculation, and bacteria growth simulation.
-
-- **Assignment 4**: Clothing Store OOP Demo  
-  Demonstrates object-oriented programming by managing clothing items using a `Clothes` class.
-
-- **Assignment 5**: Movie Ticket Editor (OOP)  
-  Allows editing and displaying movie ticket details using a custom `MovieTicket` class.
-
-- **Assignment 6**: Sales Report Generator with Aggregation  
-  Uses arrays and methods to compute sales totals, averages, and extremes across departments.
-
-- **Assignment 7**: Theater Ticketing System  
-  Console-based interface for purchasing and viewing seats in a 15×10 theater layout. Includes dynamic seat availability and sales reporting. *(Depends on `TicketManager.java`.)*
+This repository contains Java assignments and lab exercises completed during my CSE 110 course. Each project demonstrates core programming concepts such as user input, control structures, object-oriented programming (OOP), arrays, file I/O, and method creation.
 
 ---
 
-Each assignment is contained in its own folder with source code and a short description.
+## 📁 Assignments
+
+- **Assignment 1**: Property Tax Calculator  
+- **Assignment 2**: Fitness Center Invoice System  
+- **Assignment 3**: Menu App with Conversion & Growth Models  
+- **Assignment 4**: Clothing Store OOP Demo  
+- **Assignment 5**: Movie Ticket Editor (OOP)  
+- **Assignment 6**: Sales Report Generator with Aggregation  
+- **Assignment 7**: Theater Ticketing System 
+
+Each assignment is organized in its own folder with source code and any necessary supporting files (e.g., `.txt` inputs or helper classes).
+
+---
+
+## 🧪 Lab Exercises
+
+- **Lab 1**: Test Score Averaging
+- **Lab 2**: String Input & Manipulation
+- **Lab 3**: Math Functions & Output Formatting
+- **Lab 4**: Day-of-Week Logic (`if`/`switch`)
+- **Lab 5**: Looping Menus & Factorial Logic
+- **Lab 6**: Custom Methods and Return Values
+- **Lab 7**: Intro to OOP (`Student` class) 🔺
+- **Lab 8**: Array Statistics
+- **Lab 9**: 2D Arrays (Monkey Data Tracker)
+
+---
+
+## Notes
+
+- For Assignment 7, the program relies on `TicketManager.java`.
+- If you’re viewing Lab 7, make sure `Student.java` is included to compile successfully.
+
