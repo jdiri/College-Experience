@@ -1,0 +1,14 @@
+v2.0 raw
+0    # Load ACC
+3    #   value to load
+1    # ADD ACC
+5    #   value to add
+4    #ZERO    #address to store
+0
+3
+3
+8
+6
+0
+0
+2    # STOP
