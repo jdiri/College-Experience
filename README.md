@@ -73,6 +73,16 @@ Projects are organized **by semester**, and within each semester, by **course fo
   Creates a JavaFX application with a TabPane featuring two tabs: one for adding heroes and another for creating an army, allowing interactive management of hero objects.
 - **Assignment 7:**
   Creates a JavaFX application that sets up a window for a SketchPane, providing a canvas for interactive drawing.
+- **Assignment 8:** 
+  Builds a restaurant review management system with features to add, search, list, sort, and remove reviews, as well as save and load reviews using text files and serialization.
+- **Assignment 9:** 
+  Implements recursive solutions to array and string problems, including finding the largest number, multiplying primes, calculating the largest digit sum, and removing adjacent duplicates in strings.
+- **Assignment 10:** 
+  Implemented a JavaFX application with interactive features and custom panes. Demonstrated handling of events, layout management, and dynamic updates in the UI.  
+- **Assignment 11:** 
+  Created a JavaFX-based project integrating multiple panes and user-driven controls. Focused on building reusable components and managing scene transitions effectively. 
+- **Assignment 12:** 
+  Builds a JavaFX GUI with interactive wave simulations. Two wave panes (maroon and gold) are displayed in a grid layout, each with independent movement controls.
 
 ---
 
