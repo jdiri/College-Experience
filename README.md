@@ -9,8 +9,8 @@ Projects are organized **by semester**, and within each semester, by **course fo
 
 - **Semester 1/** – *1st Semester*  
   - **Principles of Programming/**  
-    - *(Assignments and Labs)*  
-- **S2/** – *2nd Semester*  
+    - *Assignments and Labs*  
+- **Semester2/** – *2nd Semester*  
   - **OOP & Data/**  
     - *Assignments*   
 ---
