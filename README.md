@@ -59,7 +59,21 @@ Projects are organized **by semester**, and within each semester, by **course fo
 ### 📖 OOP & Data  
 
 #### 🔹 Assignments  
-- *(Add my assignments)*  
+- **Assignment 1:** 
+  Reads an integer from the user and prints it along with explanatory messages.
+- **Assignment 2:** 
+  Reads an unspecified number of integers from the user, then calculates and displays the largest integer, largest even integer, count of positive numbers, and the sum of all numbers.
+- **Assignment 3:**
+  Prints key computer science ethical principles with real-world examples illustrating how violating these principles affects professional conduct.
+- **Assignment 4:**
+  Implements a menu-driven program that allows the user to add and display team information, continuing until the user chooses to quit.
+- **Assignment 5:**
+  Implements multiple classes using inheritance to manage a guild of heroes, allowing users to add heroes, compute combat points, count heroes above a threshold, and list all heroes.
+- **Assignment 6:**
+  Creates a JavaFX application with a TabPane featuring two tabs: one for adding heroes and another for creating an army, allowing interactive management of hero objects.
+- **Assignment 7:**
+  Creates a JavaFX application that sets up a window for a SketchPane, providing a canvas for interactive drawing.
+
 ---
 
 ## 🗒️ Notes  
