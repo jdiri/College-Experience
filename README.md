@@ -1,27 +1,27 @@
 # 🎓 College Programming Projects  
 
-This repository contains programming assignments, labs, and projects I completed throughout my Computer Science coursework. Each project is grouped by semester (`Sx`) and demonstrates fundamental concepts across multiple languages and topics.  
+This repository contains programming assignments, labs, and projects I completed throughout my Computer Science coursework.  
+Projects are organized **by semester**, and within each semester, by **course folder**.  
 
 ---
 
 ## 📂 Repository Structure  
 
-- **Semester1/** – *1st Semester Projects*  
-- **Semester2/** – *2nd Semester Projects* 
-
-Each semester folder may include:  
-- **Assignments/** – Programming projects  
-- **Labs/** – Bigger Labs to showcase what we have been learning (not all semesters include labs)  
-- **Supporting Files/** – Input/output files, helper classes, or documentation (varies by semester)  
-
-
+- **Semester 1/** – *1st Semester*  
+  - **Principles of Programming/**  
+    - *(Assignments and Labs)*  
+- **S2/** – *2nd Semester*  
+  - **OOP & Data/**  
+    - *Assignments*   
 ---
 
-## 📘 Semester 1 – Java Foundations  
+## 📘 Semester 1  
 
-### 🔹 Assignments  
+### 📖 Principles of Programming  
+
+#### 🔹 Assignments  
 - **Assignment 1 – Property Tax Calculator**  
-  Simple program that calculates property taxes based on user input.  
+  Calculates property taxes based on user input.  
 
 - **Assignment 2 – Fitness Center Invoice System**  
   Generates invoices using conditional logic and formatted output.  
@@ -41,7 +41,7 @@ Each semester folder may include:
 - **Assignment 7 – Theater Ticketing System**  
   Larger project involving multiple classes (`TicketManager.java`).  
 
-### 🔹 Labs  
+#### 🔹 Labs  
 - **Lab 1**: Test Score Averaging  
 - **Lab 2**: String Input & Manipulation  
 - **Lab 3**: Math Functions & Output Formatting  
@@ -54,16 +54,17 @@ Each semester folder may include:
 
 ---
 
-## 📘 Semester 2 – OOP & Data  
+## 📘 Semester 2  
 
-### 🔹 Assignments  
-- *(Add assignments here)*  
+### 📖 OOP & Data  
 
+#### 🔹 Assignments  
+- *(Add my assignments)*  
 ---
 
 ## 🗒️ Notes  
 - Some projects require additional files (`.java`, `.txt`, or helper classes).  
-- Each semester folder is self-contained and can be compiled/run independently.  
-- Languages vary by semester (Java, Python, C, etc.).  
+- Each course folder is self-contained and can be compiled/run independently.  
+- Languages vary by course (Java, Python, C, etc.).  
 
 ---
