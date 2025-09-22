@@ -96,10 +96,28 @@ Projects are organized **by semester**, and within each semester, by **course fo
 
 ### 📖 Digital Design  
 
-Projects and labs focusing on digital logic and hardware description:  
-- **Verilog HDL** designs (`.v`)  
-- **Logisim** circuit diagrams (`.dig`)  
-- Supporting **text** and **hex** files for simulations  
+#### 🔹 Capstone ALU Project  
+- A finite-state, gate-level comparator built in Digital, using D_FF state bits (q1–q3) and inputs clk/reset, to decide L/R/E for two bus inputs W₁ and W₂ each cycle.  
+
+#### 🔹 Assignments  
+Practice circuits and smaller projects, including:  
+- 2-layer circuit  
+- Alarm system  
+- Base-12 counter  
+- D flip-flop  
+- JK flip-flop  
+- SR Latch
+- Clocked Sequential Circuit
+
+#### 🔹 Labs  
+More in-depth guided exercises:  
+- **Lab 0:** XOR gate implemented using AND, OR, NOT gates  
+- **Lab 1:** Incrementer, half-adder, full-adder, and 4-bit adder  
+- **Lab 2:** ALU utilizing components from Lab 1  
+- **Lab 3:** Simplified (“brainless”) ALU  
+- **Lab 4:** Integrates previous lab components into a complete 4-bit calculator  
+
+All files include **Verilog HDL** (`.v`) designs, **Logisim** circuit diagrams (`.dig`), and supporting **text** or **hex** files for simulation and testing. 
 
 ### 📖 Programming Languages  
 
