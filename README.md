@@ -12,7 +12,14 @@ Projects are organized **by semester**, and within each semester, by **course fo
     - *Assignments and Labs*  
 - **Semester2/** – *2nd Semester*  
   - **OOP & Data/**  
-    - *Assignments*   
+    - *Assignments*  
+- **Semester 3/** – *3rd Semester*  
+  - **Digital Design/**  
+    - *Capstone ALU Project*  
+    - *Labs*
+    - *Assignments*  
+  - **Programming Languages/**  
+    - *C, C++, and Prolog exercises*  
 ---
 
 ## 📘 Semester 1  
@@ -84,6 +91,22 @@ Projects are organized **by semester**, and within each semester, by **course fo
 - **Assignment 12:** 
   Builds a JavaFX GUI with interactive wave simulations. Two wave panes (maroon and gold) are displayed in a grid layout, each with independent movement controls.
 
+---
+## 📘 Semester 3  
+
+### 📖 Digital Design  
+
+Projects and labs focusing on digital logic and hardware description:  
+- **Verilog HDL** designs (`.v`)  
+- **Logisim** circuit diagrams (`.dig`)  
+- Supporting **text** and **hex** files for simulations  
+
+### 📖 Programming Languages  
+
+Assignments and exercises from exploring multiple programming paradigms:  
+- **C** – procedural programming exercises  
+- **C++** – object-oriented programming samples  
+- **Prolog** – logic programming with facts, rules, and queries 
 ---
 
 ## 🗒️ Notes  
