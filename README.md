@@ -20,6 +20,11 @@ Projects are organized **by semester**, and within each semester, by **course fo
     - *Assignments*  
   - **Programming Languages/**  
     - *C, C++, and Prolog exercises*  
+- **Semester 4/** – *4th Semester*  
+  - **Data Structures and Algorithms/**  
+    - *Programs Showcasing Important Data Structures and Algorithms*
+  - **Software Engineering/**  
+    - *JavaFX Applications* 
 ---
 
 ## 📘 Semester 1  
@@ -126,7 +131,39 @@ Assignments and exercises from exploring multiple programming paradigms:
 - **C++** – object-oriented programming samples  
 - **Prolog** – logic programming with facts, rules, and queries 
 ---
+📘 **Semester 4**
 
+📖 **Data Structures & Algorithms**
+
+🔹 **Assignments / Projects**
+
+This course explores fundamental and advanced data structures through hands-on implementations used in a larger **Flight Management and Navigation System** project.
+
+Each folder demonstrates both core algorithms and applied graph theory concepts:
+
+- **Kruskal/** – Implements Kruskal’s Minimum Spanning Tree algorithm to find optimal flight route networks.  
+- **Dijkstra/** – Computes shortest flight paths using Dijkstra’s algorithm on directed and undirected graphs.  
+- **Hashmaps/** – Stores and retrieves flight data efficiently, mapping city codes and routes.  
+- **LinkedLists/** – Manages dynamic lists of flights, passengers, and route histories.  
+- **MaxHeaps/** – Prioritizes flights by distance, capacity, or importance in scheduling operations.  
+- **RedBlackTrees/** – Maintains balanced structures for rapid flight lookup and insertion operations.
+
+Together, these modules could form an integrated **graph-based flight navigation simulator**, allowing efficient route computation and airline management.
+
+
+📖 **Software Engineering**
+
+🔹 **Projects**
+
+1. **Medical Office Management System**  
+   A software solution designed for patient data management, appointment scheduling, and billing tracking.  
+   Emphasizes modular architecture, user input validation, and maintainable class hierarchies.
+
+2. **Deli Ordering System**  
+   Implements an ordering and inventory management system for a deli, featuring customer order processing, item tracking, and dynamic pricing updates.  
+   Focused on team-based development, requirement documentation, and iterative testing.
+
+---
 ## 🗒️ Notes  
 - Some projects require additional files (`.java`, `.txt`, or helper classes).  
 - Each course folder is self-contained and can be compiled/run independently.  
