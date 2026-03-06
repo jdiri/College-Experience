@@ -24,7 +24,14 @@ Projects are organized **by semester**, and within each semester, by **course fo
   - **Data Structures and Algorithms/**  
     - *Programs Showcasing Important Data Structures and Algorithms*
   - **Software Engineering/**  
-    - *JavaFX Applications* 
+    - *JavaFX Applications*
+- **Semester 5/** – *5th Semester*  
+  - **Computer Networking/**  
+    - *Basic Client to Server requests*
+  - **Operating Systems/**  
+    - *Linux kernel modules demonstrating OS concepts including thread synchronization, virtual memory page allocation, and block-level        device I/O through custom character devices and IOCTL interfaces.*
+  - **Principles of Programming Languages/**  
+    - *C++ parser that converts a simple language into an intermediate instruction representation supporting control flow, expressions,        and I/O.*
 ---
 
 ## 📘 Semester 1  
@@ -163,6 +170,45 @@ Together, these modules could form an integrated **graph-based flight navigation
    Implements an ordering and inventory management system for a deli, featuring customer order processing, item tracking, and dynamic pricing updates.  
    Focused on team-based development, requirement documentation, and iterative testing.
 
+---
+📘 **Semester 5**
+
+📖 **Computer Networking**
+
+🔹 **Assignments**
+
+This course focuses on the fundamental principles of network communication, including protocol layering, client–server architecture, and data transmission across distributed systems.
+
+Each assignment demonstrates key networking concepts through practical implementations:
+
+- **Client-Server Communication/** – Implements basic socket-based communication between clients and servers, handling request/response messaging and connection management.  
+- **Protocol Implementation/** – Simulates core networking protocols and explores how data is structured, transmitted, and interpreted across network layers.  
+- **Network Messaging/** – Demonstrates reliable message exchange, connection handling, and basic error management in distributed environments.
+
+📖 **Operating System**
+
+🔹 **Projects**
+
+- **Producer–Consumer Kernel Module/** – Implements the classic producer–consumer synchronization problem within the Linux kernel using kernel threads and semaphores.
+- **Virtual Memory Allocation Module/** – A Linux kernel module that dynamically allocates and frees memory pages through a custom character device and IOCTL interface.
+- **USB Block Device I/O Module/** – Implements block-level read and write operations to a USB storage device through a custom kernel interface.
+
+📖 **Principles of Programming Languages**
+
+🔹 **Project**
+
+- **Parser and Intermediate Representation Generator/** – A recursive-descent parser implemented in C++ that analyzes a custom programming language and generates an intermediate representation (IR) composed of linked instruction nodes.
+
+The parser supports multiple control-flow constructs and program features including:
+
+- Variable declarations and assignments  
+- Arithmetic expressions  
+- Conditional statements (`if`)  
+- Iteration constructs (`while`, `for`)  
+- `switch` statements with multiple cases  
+- Input and output operations  
+
+This project demonstrates fundamental compiler concepts including **lexical analysis integration, syntax parsing, symbol tables, and control-flow representation for program execution.**
 ---
 ## 🗒️ Notes  
 - Some projects require additional files (`.java`, `.txt`, or helper classes).  
